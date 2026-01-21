@@ -1,1 +1,1 @@
-# C-lculos-preliminares-sele-o-de-ventilador-sistema-de-exaust-o
+# Cálculos preliminares para seleção de ventilador 
